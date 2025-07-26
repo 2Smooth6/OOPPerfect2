@@ -627,8 +627,8 @@ main {
     background: linear-gradient(45deg, #36d1dc, #5b86e5);
 }
 
-.lesson-btn.worksheet {
-    background: linear-gradient(45deg, #ffc107, #ff8c00);
+.lesson-btn.worksheet-btn {
+    background: linear-gradient(45deg, #28a745, #218838);
 }
 
 .lesson-btn:active {
